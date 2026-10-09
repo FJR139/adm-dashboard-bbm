@@ -1,0 +1,5 @@
+"id_area","nama_area","kapasitas_station","memiliki_daily_tank"
+KAP-1,Area Produksi Utama,50000,true
+KAP-2,Area Produksi Reguler,26000,false
+KAP 1,Area Logistik KAP 1,15000,true
+KAP 2,Area Logistik KAP 1,15000,true
